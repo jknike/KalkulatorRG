@@ -1,0 +1,7 @@
+Sterowanie:
+Lewy Shift - zmiana znaku;
+Przecinek, kropka (w zależności od separatora systemowego) - separator;
+C - clear;
+Escape - clear entry;
+Enter - wynik działania;
+
